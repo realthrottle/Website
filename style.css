@@ -1,1 +1,11 @@
 
+Big Shoulders: CSS class for a variable style
+
+// <uniquifier>: Use a unique and descriptive class name
+
+.big-shoulders-<uniquifier> {
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
